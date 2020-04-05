@@ -1,4 +1,3 @@
-
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include <chrono>
 #include <condition_variable>
